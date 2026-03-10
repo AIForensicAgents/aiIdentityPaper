@@ -151,22 +151,12 @@ If you reference this work in academic publications, policy documents, technical
 }
 ```
 
-### APA 7th Edition
-
-Warner, C. (2025). *The imperative of cryptographic identity traceability for autonomous AI agents: Historical analogues, platform accountability, and the Agent Identity Certificate framework* [Pre-publication manuscript]. GitHub. https://github.com/craigwarner-ufastro/aiIdentityPaper
-
-### Chicago 17th Edition
-
-Warner, Craig. "The Imperative of Cryptographic Identity Traceability for Autonomous AI Agents: Historical Analogues, Platform Accountability, and the Agent Identity Certificate Framework." Pre-publication manuscript, 2025. https://github.com/craigwarner-ufastro/aiIdentityPaper.
-
----
-
 ## 👤 Author
 
 **Craig Warner**
 
 📧 [craigwarner@alumni.stanford.edu](mailto:craigwarner@alumni.stanford.edu)
-🔗 [GitHub Profile](https://github.com/craigwarner-ufastro)
+
 
 Stanford University Alumni
 
